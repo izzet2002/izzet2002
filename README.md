@@ -2,7 +2,7 @@
 
 ### Senior Java Backend Engineer · AI/LLM Integration · Elasticsearch
 
-I build backend systems and carry product features through web, Android, testing and release. My core focus is **Java/Spring Boot**, reliable business workflows and practical AI integration.
+I build **Java/Spring Boot backends** for real product workflows: reservations, event-driven processing, multilingual search and practical AI integration. I also carry features through web, Android, testing and release.
 
 **Open to remote Java backend and backend-focused full-stack opportunities.** Based in Kyrgyzstan; Russian and Turkish are my native languages.
 
@@ -12,7 +12,11 @@ An independently developed travel marketplace connecting customers with hotels, 
 
 As the founder and developer, I work across backend architecture, domain workflows, search, AI integration and delivery.
 
-**[Explore the Gidgo engineering case study →](https://github.com/izzet2002/gidgo-showcase)**
+**[Live web demo →](https://demo.gidgo.net)** · **[Engineering case study →](https://github.com/izzet2002/gidgo-showcase)** · [Android test build (APK)](https://demo.gidgo.net/app)
+
+[![Gidgo web demo: a natural-language hotel request and matching catalog results](https://raw.githubusercontent.com/izzet2002/gidgo-showcase/main/assets/web-ai-search.png)](https://demo.gidgo.net)
+
+*Actual demo UI with sample listings. Start in the browser; no installation is needed. The optional Android download is a test APK, not a Google Play listing.*
 
 Selected engineering areas:
 
@@ -37,17 +41,15 @@ Gidgo is a private commercial product. The public case study explains engineerin
 
 I have worked with Java since 2018. Earlier, between 2008 and 2012, I developed and sold PHP/JavaScript web applications. Today, I combine that end-to-end product experience with a backend engineering focus.
 
-I use AI coding tools to accelerate implementation, alongside code review, testing and hands-on verification. I value clear trade-offs, failure handling and maintainable systems over technology checklists.
+I take responsibility for architecture, technical decisions, code review, testing and release verification. AI coding tools support implementation; they do not replace engineering judgement or validation. I value clear trade-offs, failure handling and maintainable systems over technology checklists.
 
-**Languages:** Russian and Turkish — native; English — comfortable reading technical documentation; improving spoken fluency.
+**Languages:** Russian and Turkish — native; English — comfortable reading technical documentation, with spoken fluency still developing.
 
 ## Let's talk
 
 - **Email:** [narman.roglu@gmail.com](mailto:narman.roglu@gmail.com)
-- **WhatsApp / Telegram — Türkiye:** [+90 537 331 66 64](https://wa.me/905373316664)
-- **WhatsApp / Telegram — Kyrgyzstan:** [+996 706 098 920](https://wa.me/996706098920)
 
-Phone links open WhatsApp; the same numbers are also available for Telegram contact, subject to Telegram privacy settings.
+For remote roles or a technical product walkthrough, email me. Telegram / WhatsApp contact is available on request.
 
 ---
 
