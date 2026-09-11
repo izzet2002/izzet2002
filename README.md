@@ -43,7 +43,7 @@ I have worked with Java since 2018. Earlier, between 2008 and 2012, I developed 
 
 I take responsibility for architecture, technical decisions, code review, testing and release verification. AI coding tools support implementation; they do not replace engineering judgement or validation. I value clear trade-offs, failure handling and maintainable systems over technology checklists.
 
-**Languages:** Russian and Turkish — native; English — good reading and listening comprehension, including technical material; speaking is improving.
+**Languages:** Russian and Turkish — native; English — reads technical documentation; spoken English in progress.
 
 ## Let's talk
 
