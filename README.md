@@ -14,7 +14,7 @@ As the founder and developer, I work across backend architecture, domain workflo
 
 **[Live web demo →](https://demo.gidgo.net)** · **[Engineering case study →](https://github.com/izzet2002/gidgo-showcase)** · [Android test build (APK)](https://demo.gidgo.net/app)
 
-[![Gidgo web demo: a natural-language hotel request and matching catalog results](https://raw.githubusercontent.com/izzet2002/gidgo-showcase/main/assets/web-ai-search.png)](https://demo.gidgo.net)
+[![Gidgo web demo: a natural-language hotel request and matching catalog results](https://raw.githubusercontent.com/izzet2002/gidgo-showcase/main/assets/web-ai-search.jpg)](https://demo.gidgo.net)
 
 *Actual demo UI with sample listings. Start in the browser; no installation is needed. The optional Android download is a test APK, not a Google Play listing.*
 
@@ -43,7 +43,7 @@ I have worked with Java since 2018. Earlier, between 2008 and 2012, I developed 
 
 I take responsibility for architecture, technical decisions, code review, testing and release verification. AI coding tools support implementation; they do not replace engineering judgement or validation. I value clear trade-offs, failure handling and maintainable systems over technology checklists.
 
-**Languages:** Russian and Turkish — native; English — comfortable reading technical documentation, with spoken fluency still developing.
+**Languages:** Russian and Turkish — native; English — working proficiency in technical reading and writing, spoken English improving.
 
 ## Let's talk
 
